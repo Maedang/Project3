@@ -5,7 +5,9 @@ Death risk factors have had a prominent mark around the world. Many countries de
 
 ![image](https://user-images.githubusercontent.com/109117666/200949434-6f656513-d6c0-4165-89a8-f8a51f83d4f4.png)
 
-# Links
+# Sources / References
 - [Data Source 1](<https://ourworldindata.org/grapher/deaths-risk-factor-15-49years?time=1990..2019> "Source")
 - [Data Source 2](<https://ourworldindata.org/grapher/deaths-risk-factor-50-69years?time=1990..2019> "Source")
-- [Data Source 3](<https://www.kaggle.com/datasets/ahmadjalalmasood123/deaths-by-risk-factor-dataset> "Source")
+- [Fifa Group](<https://www.fifa.com/fifaplus/en/articles/qatar-2022-all-qualified-teams-groups-dates-match-schedule-tickets-more> "Source")
+- [Chart.Js](<https://www.chartjs.org/> "Source")
+- [PowerPoint Design](<https://www.free-powerpoint-templates-design.com/medical-health-care-powerpoint-templates//> "Source")
